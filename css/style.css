@@ -354,7 +354,7 @@ i:before {
 .banner_inner_text {
   padding-top: 200px;
   position: relative;
-  padding-bottom: 95px;
+  padding-bottom: 40px; /*95px*/
 }
 
 .banner_inner_text:before {
@@ -1373,35 +1373,35 @@ i:before {
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
 }
 
 .contact_us_form .form-group input.placeholder {
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
 }
 
 .contact_us_form .form-group input:-moz-placeholder {
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
 }
 
 .contact_us_form .form-group input::-moz-placeholder {
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
 }
 
 .contact_us_form .form-group input::-webkit-input-placeholder {
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
@@ -1416,7 +1416,7 @@ i:before {
 }
 
 .contact_us_form .form-group textarea {
-  height: 200px;
+  height: 250px; /*200*/
   border: none;
   border-bottom: 2px solid #e1e1e1;
   border-radius: 0px;
@@ -1424,7 +1424,7 @@ i:before {
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
@@ -1432,28 +1432,28 @@ i:before {
 }
 
 .contact_us_form .form-group textarea.placeholder {
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
 }
 
 .contact_us_form .form-group textarea:-moz-placeholder {
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
 }
 
 .contact_us_form .form-group textarea::-moz-placeholder {
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
 }
 
 .contact_us_form .form-group textarea::-webkit-input-placeholder {
-  font-size: 13px;
+  font-size: 20px; /*13*/
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   color: #a5bbd0;
