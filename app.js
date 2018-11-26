@@ -10,6 +10,8 @@ const path = require("path")
 
 const api = require('./routes/articulo');
 
+app.use(express.static(__dirname + '/public/'))
+
 app.use(bodyParser.urlencoded({extended:false}));
 app.use(bodyParser.json());
 app.use('/api', api)
