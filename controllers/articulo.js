@@ -1,6 +1,8 @@
 'use strict'
 
-const Favorito = require('../models/articulo')
+const Articulo = require('../models/articulo')
+
+
 
 
 
