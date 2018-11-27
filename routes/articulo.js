@@ -1,8 +1,10 @@
 'use strict'
 
-const express = require('express')
-const ArticuloController = require('../controllers/articulo')
-const api = express.Router()
+const express = require('express');
+const ArticuloController = require('../controllers/articulo');
+const api = express.Router();
+
+
 
 
 

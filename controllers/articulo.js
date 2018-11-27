@@ -1,9 +1,9 @@
 'use strict'
 
-const Articulo = require('../models/articulo')
+const Articulo = require('../models/articulo');
 
 
 
+module.exports = {
 
-
-module.exports = {}
+}
