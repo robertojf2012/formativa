@@ -10,7 +10,8 @@ const ArticuloSchema = Schema({
 	Titulo: String,
 	Descripcion: String,
 	Fecha: String,
-	Imagen: String
+	Imagen: String,
+	Comentarios: Array
 })
 
 module.exports = mongoose.model('Articulo', ArticuloSchema)
